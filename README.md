@@ -22,9 +22,10 @@ A full-stack learning and collaboration platform for students. Includes:
 - Report system + moderation dashboard  
 - Markdown support, real-time UI updates, server-state caching  
 - Fully typed frontend + backend, comprehensive validation, structured logging, and testing  
-**Tech:** React, Node.js/Express, PostgreSQL, Prisma ORM, Tailwind, shadcn/ui, Zod, TanStack Query, Vitest
-  👉 [Repo](https://github.com/Pdave-dcn/KlasMwen)
-  👉 [Live Demo](https://klasmwen.netlify.app/) 
+**Tech:** React, Node.js/Express, PostgreSQL, Prisma ORM, Tailwind, shadcn/ui, Zod, TanStack Query, Vitest  
+👉 [Repo](https://github.com/Pdave-dcn/KlasMwen)  
+👉 [Live Demo](https://klasmwen.netlify.app/)  
+
 
 ---
 
@@ -34,9 +35,9 @@ A full-stack interactive game inspired by the classic books.
 - Responsive UI with smooth animations and dark/light mode  
 - REST API handles game scenes, character coordinates, and score submissions  
 - Strong typing, schema validation, and clean monorepo structure  
-**Tech:** React · TypeScript · Vite · TailwindCSS · shadcn/ui · Motion · Node.js · Express · Prisma ORM · PostgreSQL
-  👉 [Repo](https://github.com/Pdave-dcn/where-is-waldo)
-  👉 [Live Demo](https://whereiswaldoonline.netlify.app/)
+**Tech:** React · TypeScript · Vite · TailwindCSS · shadcn/ui · Motion · Node.js · Express · Prisma ORM · PostgreSQL  
+👉 [Repo](https://github.com/Pdave-dcn/where-is-waldo)  
+👉 [Live Demo](https://whereiswaldoonline.netlify.app/)  
 
 ---
 

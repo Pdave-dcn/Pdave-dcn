@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pdave
 
-Creative web developer who loves learning, building, and becoming truly good at what I do.  
+Creative web developer who loves learning, building, and becoming truly good at what he does.  
 Currently diving deeper into **backend development** and sharpening my full-stack skills.
 
 ---
